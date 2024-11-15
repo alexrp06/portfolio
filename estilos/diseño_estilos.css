@@ -16,3 +16,10 @@ p {
     line-height: 1.6; 
     color: #333333; 
 }
+ul {
+    background-color: #ffffff; /* Fondo claro */
+    border: 1px solid #cccccc; /* Borde gris claro */
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 10px;
+    list-style-type: none;
+}
